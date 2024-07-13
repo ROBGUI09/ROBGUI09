@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake that eats activity dots in order from darkest to brightest](https://raw.githubusercontent.com/ROBGUI09/ROBGUI09/snake/github-contribution-grid-snake-dark.svg)
+
 <!--
 **ROBGUI09/ROBGUI09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
