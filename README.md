@@ -2,7 +2,7 @@
 
 Reach me there:
 
-[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/karrrto) [![Discord](https://dcbadge.limes.pink/api/shield/458999331513696256)](https://discord.com/users/458999331513696256)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karrrto) [![Discord](https://dcbadge.limes.pink/api/shield/458999331513696256)](https://discord.com/users/458999331513696256)
 
 ![snake that eats activity dots in order from darkest to brightest](https://raw.githubusercontent.com/ROBGUI09/ROBGUI09/snake/github-contribution-grid-snake-dark.svg)
 
