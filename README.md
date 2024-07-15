@@ -1,6 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Bob, but in matrix people call me Kel'k
+
+Reach me there:
+
+[![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/karrrto) [![Discord](https://dcbadge.limes.pink/api/shield/458999331513696256)](https://discord.com/users/458999331513696256)
 
 ![snake that eats activity dots in order from darkest to brightest](https://raw.githubusercontent.com/ROBGUI09/ROBGUI09/snake/github-contribution-grid-snake-dark.svg)
+
+![furry derg named Kel'k](https://github.com/ROBGUI09/ROBGUI09/raw/main/kelk_rose.webp)
+
 
 <!--
 **ROBGUI09/ROBGUI09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
