@@ -27,6 +27,10 @@
             display: none !important;
         }
 
+        ._0DYDGUU9 {
+            display: none !important;
+        }
+
         /* 3. bUSeDsPs: remove gap */
         .bUSeDsPs {
             gap: 0 !important;
@@ -46,8 +50,9 @@
         .UnF3CfUN {
             height: 18px !important;
             width: 18px !important;
+            min-width: 18px !important;
             max-width: 18px !important;
-            border-radius: 12px !important;
+            border-radius: 0px !important;
         }
 
         /* 7. Special style for .UnF3CfUN.OWtRuGkW: dotted border with animation */
