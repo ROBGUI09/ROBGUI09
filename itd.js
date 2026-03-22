@@ -88,7 +88,7 @@
 
         if ((event.code === 'Space' || event.key === ' ' || event.keyCode === 32) && !isEditable) {
             event.preventDefault();
-            const targetButton = document.querySelector('.UnF3CfUN');
+            const targetButton = document.querySelector('.m5tH6juu');
             if (targetButton) {
                 targetButton.click();
             }
