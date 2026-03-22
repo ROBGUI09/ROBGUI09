@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Apply custom CSS styles and enable spacebar click for a specific button on pixel.итд.com
 // @author       ROBGUI09
-// @match        *://pixel.итд.com/*
+// @match        *://pixel.xn--d1ah4a.com/*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/ROBGUI09/ROBGUI09/refs/heads/main/itd.js
 // @downloadURL  https://raw.githubusercontent.com/ROBGUI09/ROBGUI09/refs/heads/main/itd.js
