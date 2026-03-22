@@ -20,6 +20,7 @@
         .Ucl8QbBG {
             padding: 0 !important;
             backdrop-filter: none !important;
+            border-radius: 0px !important;
         }
 
         /* 2. ms1ZA4rl: hide completely */
@@ -41,9 +42,16 @@
             display: none !important;
         }
 
+        .allmmozZ {
+            gap: 0px !important;
+        }
+
         /* 5. m5tH6juu: hide completely (additional hidden element) */
         .m5tH6juu {
-            display: none !important;
+            width: 95px !important;
+            border-radius: 0px !important;
+            font-size: 8px !important;
+            height: 18px;
         }
 
         /* 6. UnF3CfUN: size and border-radius adjustments */
@@ -57,7 +65,7 @@
 
         /* 7. Special style for .UnF3CfUN.OWtRuGkW: dotted border with animation */
         .UnF3CfUN.OWtRuGkW {
-            border: 3px dotted white !important;
+            border: 3px dotted;
             background-clip: initial !important;
             animation: borderPulse 1s ease infinite !important;
         }
